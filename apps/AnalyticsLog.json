@@ -1,0 +1,34 @@
+[
+  {
+    "Action" : "Today",
+    "Category" : "Viewed Screen"
+  },
+  {
+    "Action" : "Resumed App",
+    "Category" : "App"
+  },
+  {
+    "Param2Name" : "Content Size",
+    "Action" : "Finished Reading Article",
+    "Param2Value" : "6684",
+    "Param0Value" : "0",
+    "Param1Name" : "View Height",
+    "Category" : "Today",
+    "Param3Name" : "Reading Time",
+    "Param3Value" : "5.600989937782288",
+    "Param1Value" : "548",
+    "Param0Name" : "Max Scroll Offset"
+  },
+  {
+    "Action" : "Menu",
+    "Category" : "Viewed Screen"
+  },
+  {
+    "Action" : "FAQ",
+    "Category" : "Viewed Screen"
+  },
+  {
+    "Action" : "Menu",
+    "Category" : "Viewed Screen"
+  }
+]
